@@ -30,4 +30,4 @@ We may update this Privacy Policy to reflect changes to our practices or for leg
 
 ## Contact
 
-If you have any questions or concerns about this policy or the app's privacy practices, please contact us at: [support@sylphonia.com](mailto:ataberkyakar@gmail.com)
+If you have any questions or concerns about this policy or the app's privacy practices, please contact us at: [ataberkyakar@gmail.com](mailto:ataberkyakar@gmail.com)
