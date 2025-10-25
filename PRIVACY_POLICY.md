@@ -19,7 +19,6 @@ This mobile app is a WebView-based Android application that allows users to acce
 
 - Please note that when you use this app, **all browsing activity and entered data are handled directly by sylphonia.com** via the embedded website.
 - The website may collect data, use cookies, or conduct analytics according to its own privacy policy and terms.
-- For details on how your data is collected and used while browsing sylphonia.com, **please refer to the [Sylphonia Website Privacy Policy](https://www.sylphonia.com/privacy-policy)**.
 
 ## Children's Privacy
 
